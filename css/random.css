@@ -1,7 +1,8 @@
+@import url("http://fonts.googleapis.com/earlyaccess/notosansjapanese.css");
 body {
   background-color: #d7ccc8;
   margin: 0px;
-  font-family: Lato, "Microsoft Jhenghei", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+  font-family: 'Noto Sans Japanese';
   font-size: 18px;
 }
 @media (max-width: 860px) {
